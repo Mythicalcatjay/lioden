@@ -7,7 +7,7 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 /* FONT (From Google Fonts) */
 
-@import url('FONT URL');
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans&display=swap');
 
 /* BACKGROUND */
 
@@ -16,7 +16,7 @@ body {
 	background-size: 100%;
   color: purple;
   cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
-	font-family: 'FONT NAME';
+	font-family: 'Shantell Sans', cursive;
 }
 
 /* MAIN PANEL */
@@ -147,7 +147,7 @@ h1 {
 	color: purple;
 	font-size: 90px;
 	text-align: center;
-        font-family: 'FONT NAME'
+        font-family: 'Shantell Sans', cursive;
 }
 
 
@@ -172,7 +172,7 @@ h3 {
 .sidebar h3 {
 	color: purple !important;
         font-size: 26px !important;
-        font-family: 'FONT NAME'
+        font-family: 'Shantell Sans', cursive;
 }
 
 /* RIGHT SIDE PANELS */
@@ -553,15 +553,23 @@ div.cave-grid>img /* Pregnant Lionesses */ {
 	content: url('https://mythicalcatjay.neocities.org/Jolyne_2008_Shikishi_Autograph.png') !important
 }
 
-a[href$="CAVE ID"]>div.cave-grid>img {
+a[href$="69282"]>div.cave-grid>img {
 	content: url('https://mythicalcatjay.neocities.org/JumpFesta2001Araki.jpg') !important
 }
 
-a[href$="lionoverview.php?id=PLAYER ID"]>div.cave-grid>img /* Pride Overview */ {
+a[href$="73134"]>div.cave-grid>img {
+	content: url('https://mythicalcatjay.neocities.org/JumpFesta2001Araki.jpg') !important
+}
+
+a[href$="209562"]>div.cave-grid>img {
+	content: url('https://mythicalcatjay.neocities.org/JumpFesta2001Araki.jpg') !important
+}
+
+a[href$="lionoverview.php?id=140780"]>div.cave-grid>img /* Pride Overview */ {
 	content: url('https://mythicalcatjay.neocities.org/Araki_Hoodie_Sketch.jpg') !important
 }
 
-a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
+a[href$="unsorted.php?id=140780"]>div.cave-grid>img /* Unsorted */ {
 	content: url('https://mythicalcatjay.neocities.org/JoJoVellerBoxJolyne.jpg') !important
 }
 
