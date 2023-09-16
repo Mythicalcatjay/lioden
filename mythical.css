@@ -12,7 +12,7 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 /* BACKGROUND */
 
 body {
-	background: url('https://mythicalcatjay.neocities.org/tilebg.gif');
+	backgroundimage: url('https://mythicalcatjay.neocities.org/tilebg.gif');
 	color: purple;
 	cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
 	font-family: 'Shantell Sans', cursive;
@@ -62,7 +62,7 @@ body {
 /* NAVBAR BUTTON HOVER */
 
 .navbar li a:hover {
-	background: #d57cd680 !important;
+	background: #d57dd680 !important;
 	border-bottom: none;
 	color: purple !important;
 	border-radius: 0px
@@ -113,7 +113,7 @@ body {
 /* BOOKMARK BUTTON */
 
 input.floatright, input.floatright:hover {
-	background: #eb9aec80 !important;
+	background: #d57dd680 !important;
         border: none !important;
 	border-radius: 0px;
 	color: purple !important;    
@@ -122,7 +122,7 @@ input.floatright, input.floatright:hover {
 /* SWITCH ACCOUNT BUTTON */
 
 button.button, button.button:hover {
-	background: #eb9aec80;
+	background: #d57dd680;
         border: none !important;
 	border-radius: 0px;
         text-shadow: none !important;
@@ -176,7 +176,7 @@ h3 {
 
 /* RIGHT SIDE PANELS */
 .panel {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #ffe5ff80 !important;
 	box-shadow: none !important;
 	border: none !important;
 	color: purple !important;
@@ -185,7 +185,7 @@ h3 {
 
 /* ENERGY BAR BACKGROUND */
 .progress {
-	background: rgba(1, 1, 1, 0.5);
+	background: #ffe5ff80;
 	color: white !important;
 	border-radius: 0px !important
 }
@@ -205,19 +205,19 @@ h3 {
 /* CHAT */
 
 .s-chat-message:nth-child(even) /* Even Numbered Messages */ {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #ffe5ff80 !important;
         color: #000000 !important;
 	border: none !important
 }
 
 .s-chat-message:nth-child(odd) /* Odd Numbered Messages */ {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #ffffff80 !important;
         color: #000000 !important;
 	border: none !important
 }
 
 .s-chat-message__pinned /* Pinned Message */ {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #ffe5ff80 !important;
         color: #000000 !important;
 	border: none !important
 }
@@ -242,7 +242,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 /* PANEL BACKGROUND COLOR */
 
 .table {
-	background: rgba(1, 1, 1, 0.5);
+	background: #ffe5ff80;
 	border: none !important;
 	border-collapse: separate;
 	border-radius: 0px
@@ -543,7 +543,7 @@ table#player img {
 /* LIODEN LOGO REPLACER */
 
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
-	content: url('https://static.jojowiki.com/images/thumb/d/d7/latest/20191015214205/Joly08.jpg/293px-Joly08.jpg')
+	content: url('https://cdn.custom-cursor.com/db/8251/jojo-bizzare-adventure-jolyne-kujo-and-stone-free-pointer.png')
 }
 
 /* CAVE / MOUND IMAGES */
