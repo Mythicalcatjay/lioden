@@ -7,7 +7,7 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 /* FONT (From Google Fonts) */
 
-@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans&display=swap');
+@import url('https://images.alphacoders.com/129/1294980.png');
 
 /* BACKGROUND */
 
@@ -192,7 +192,7 @@ h3 {
 
 /* ENERGY BAR COLOR */
 .progress-bar {
-	background: rgba(1, 1, 1, 0.5);
+	background: #d57dd680;
 	color: blue !important;
 	border-radius: 0px !important
 }
@@ -394,7 +394,7 @@ a:hover {
 
 .smallbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #d57dd680;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -407,7 +407,7 @@ a:hover {
 
 .mediumbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #d57dd680;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -420,7 +420,7 @@ a:hover {
 
 .largebox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #d57dd680;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -435,7 +435,7 @@ a:hover {
 
 .smallhoverbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #d57dd680;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -454,7 +454,7 @@ a:hover {
 
 .mediumhoverbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #d57dd680;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -473,7 +473,7 @@ a:hover {
 
 .largehoverbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #d57dd680;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -509,7 +509,7 @@ a:hover {
 /* "THUMB" */
 
 ::-webkit-scrollbar-thumb {
-	background: #000000;
+	background: purple;
 	border-radius: 0px
 }
 
@@ -573,7 +573,7 @@ a[href$="unsorted.php?id=140780"]>div.cave-grid>img /* Unsorted */ {
 }
 
 .mound-grid img /* Mound(s) */ {
-	background: url("https://cd13.pikabu.monster/post_img/2021/04/06/6/1617698606144988135.jpg");
+	background: url("https://a.wattpad.com/useravatar/1EatKids11.256.47397.jpg");
 	width: 0;
 	height: 0;
 	padding-top: 80px;
