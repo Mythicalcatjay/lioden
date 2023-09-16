@@ -12,7 +12,7 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 /* BACKGROUND */
 
 body {
-	background: url('https://i.ytimg.com/vi/UPBtwL7h7oU/maxresdefault.jpg');
+	background: url('https://i.ytimg.com/vi/UPBtwL7h7oU/maxresdefault.jpg') center center fixed;
 	color: purple;
 	cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
 	font-family: 'Shantell Sans', cursive;
@@ -561,7 +561,7 @@ a[href$="73134"]>div.cave-grid>img {
 }
 
 a[href$="209562"]>div.cave-grid>img {
-	content: url('https://jojo.fandom.com/es/wiki/Jolyne_Cujoh') !important
+	content: url('https://static.jojowiki.com/images/thumb/0/03/latest/20191015213906/Joly14.jpg/209px-Joly14.jpg') !important
 }
 
 a[href$="lionoverview.php?id=140780"]>div.cave-grid>img /* Pride Overview */ {
@@ -573,7 +573,7 @@ a[href$="unsorted.php?id=140780"]>div.cave-grid>img /* Unsorted */ {
 }
 
 .mound-grid img /* Mound(s) */ {
-	background: url("https://static.jojowiki.com/images/thumb/2/27/latest/20191015214753/Joly02.jpg/89px-Joly02.jpg");
+	background: url("https://static.jojowiki.com/images/thumb/0/05/latest/20191015215138/Joly05.jpg/179px-Joly05.jpg");
 	width: 0;
 	height: 0;
 	padding-top: 80px;
