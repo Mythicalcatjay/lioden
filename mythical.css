@@ -254,7 +254,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .top,
 .bottom,
 th {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #eb9aec80 !important;
 	color: purple !important;
 	border-radius: 0px
 }
@@ -266,8 +266,8 @@ td.bottom a {
 /* Color behind "Level, Stats, Branch, Territory" etc. */
 
 .inner-table .left {
-	background: rgba(155, 226, 242, 0.6) !important;
-        color: #2e2a2b;
+	background: #eb9aec80 !important;
+        color: purple;
 	border-radius: 0px
 }
 
@@ -292,7 +292,7 @@ td.right {
 
 .cave-grid,
 .mound-grid {
-	background: rgba(1, 1, 1, 0.5);
+	background: #eb9aec80;
 	border: none !important;
 	border-radius: 0px !important
 }
@@ -300,7 +300,7 @@ td.right {
 /* FEED ALL, PLAY ALL */
 
 .feature {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #eb9aec80 !important;
 	color: purple !important;
 	border: 1px solid purple !important;
 	border-radius: 0px !important
@@ -310,7 +310,7 @@ td.right {
 
 .feature,
 div.left {
-	background: rgba(1, 1, 1, 0.5);
+	background: #eb9aec80;
 	border: none;
 	border-radius: 0px !important
 }
@@ -318,7 +318,7 @@ div.left {
 /* Block of color behind "Territory Description, Player Name, Avatar URL" etc. */
 
 .table .left {
-	background: rgba(1, 1, 1, 0.5);
+	background: #eb9aec80;
         border-radius: 0px
 }
 
@@ -327,7 +327,7 @@ div.left {
 input,
 select,
 textarea {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #ffffff80 !important;
 	border: none !important;
 	border-radius: 0px !important;
 	color: purple !important;
@@ -338,13 +338,13 @@ textarea {
 /* ACCOUNT OPTIONS PANELS  (Friend Requests Toggles, etc.) */
 
 .item-header {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #eb9aec80 !important;
 	color: purple !important;
 	border-radius: 0px !important;
 }
 
 .item {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #eb9aec80 !important;
 	border: none !important;
 	border-radius: 0px !important
 }
@@ -352,11 +352,11 @@ textarea {
 /* ACCOUNT OPTIONS ON/OFF TOGGLE SWITCH */
 
 div.slider.round /* Background */ {
-	background: #000000 !important
+	background: #eb9aec80 !important
 }
 
 div.slider.round::before /* Circle Part */ {
-	background: #000000 !important
+	background: #eb9aec80 !important
 }
 
 /* Copyright, Terms of Service, CoC, etc. */
@@ -370,13 +370,13 @@ div.container.footer.center.white.visible-lg.visible-md.visible-sm, div.containe
 
 a:link,
 a:visited {
-	color: #ffffff !important
+	color: #522291 !important
 }
 
 /* LINK HOVER COLOR */
 
 a:hover {
-	color: #ffffff !important
+	color: #862291 !important
 }
 
 
@@ -543,7 +543,7 @@ table#player img {
 /* LIODEN LOGO REPLACER */
 
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
-	content: url('https://mythicalcatjay.neocities.org/MS_JoestarClan.png')
+	content: url('https://static.jojowiki.com/images/thumb/d/d7/latest/20191015214205/Joly08.jpg/293px-Joly08.jpg')
 }
 
 /* CAVE / MOUND IMAGES */
@@ -573,7 +573,7 @@ a[href$="unsorted.php?id=140780"]>div.cave-grid>img /* Unsorted */ {
 }
 
 .mound-grid img /* Mound(s) */ {
-	background: url("https://mythicalcatjay.neocities.org/LS_SoulChip_313.png");
+	background: url("https://cd13.pikabu.monster/post_img/2021/04/06/6/1617698606144988135.jpg");
 	width: 0;
 	height: 0;
 	padding-top: 80px;
