@@ -12,10 +12,9 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 /* BACKGROUND */
 
 body {
-	background: url('https://mythicalcatjay.neocities.org/tilebg.gif') center center fixed;
-	background-size: 100%;
-  color: purple;
-  cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
+	background: url('https://mythicalcatjay.neocities.org/tilebg.gif');
+	color: purple;
+	cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
 	font-family: 'Shantell Sans', cursive;
 }
 
@@ -23,7 +22,7 @@ body {
 
 /* RIGHT SIDE */
 .container.main {
-	background: rgba(1, 1, 1, 0.5);
+	background: #ffffff80;
 	border: none;
 	box-shadow: none;
 	border-radius: 0px
@@ -38,7 +37,7 @@ body {
 /* TOPBAR ("Welcome back, ___") */
 
 .topbar {
-	background: rgba(1, 1, 1, 0.5);
+	background: #eb9aec80;
 	border: none;
 	border-top: none;
 	color: #000000;
@@ -48,7 +47,7 @@ body {
 /* NAVBAR (Den/Crossroads/Etc.) */
 
 .navbar {
-	background: rgba(1, 1, 1, 0.5);
+	background: #eb9aec80;
 	border-bottom: none;
 	color: #000000;
 	border-radius: 0px
@@ -57,22 +56,22 @@ body {
 /* NAVBAR BUTTON TEXT COLOR */
 
 .navbar li a {
-	color: #000000 !important
+	color: purple !important
 }
 
 /* NAVBAR BUTTON HOVER */
 
 .navbar li a:hover {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #d57cd680 !important;
 	border-bottom: none;
-	color: #000000 !important;
+	color: purple !important;
 	border-radius: 0px
 }
 
 /* BREADCRUMB (Home / Den) */
 
 .breadcrumb {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #eb9aec80 !important;
         border: none;
 	border-radius: 0px
 }
@@ -80,14 +79,14 @@ body {
 /* BREADCRUMB TEXT */
 
 .breadcrumb .active {
-	color: #000000
+	color: purple
 }
 
 /* CSS CREDIT */
 
 .breadcrumb::after {
         content: "Template by Katie (#106445)";
-        color: #000000;
+        color: purple;
         position: absolute;
         right: 13%; /* (This may need adjusting) */
         z-index: 100
@@ -114,20 +113,20 @@ body {
 /* BOOKMARK BUTTON */
 
 input.floatright, input.floatright:hover {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #eb9aec80 !important;
         border: none !important;
 	border-radius: 0px;
-	color: #000000 !important;    
+	color: purple !important;    
 }
 
 /* SWITCH ACCOUNT BUTTON */
 
 button.button, button.button:hover {
-	background: rgba(1, 1, 1, 0.5);
+	background: #eb9aec80;
         border: none !important;
 	border-radius: 0px;
         text-shadow: none !important;
-	color: #000000 !important
+	color: purple !important
 }
 
 /* ALERTS (ie. "Your lionesses have returned from hunting!") */
@@ -135,7 +134,7 @@ button.button, button.button:hover {
 .alert,
 .alert-warning,
 .alert-danger {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #94d67c !important;
 	border: green;
 	color: green;
 	border-radius: 0px !important
@@ -163,7 +162,7 @@ h2 {
 /* SMALL HEADER */
 
 h3 {
-	color: purpleX !important;
+	color: purple !important;
 	font-size: 14px !important
 }
 
