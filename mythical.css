@@ -136,15 +136,15 @@ button.button, button.button:hover {
 .alert-warning,
 .alert-danger {
 	background: rgba(1, 1, 1, 0.5) !important;
-	border: none;
-	color: #000000;
+	border: green;
+	color: green;
 	border-radius: 0px !important
 }
 
 /* BIGGEST HEADER ("___"'s DEN) */
 
 h1 {
-	color: #000000;
+	color: purple;
 	font-size: 90px;
 	text-align: center;
         font-family: 'FONT NAME'
@@ -154,7 +154,7 @@ h1 {
 /* MEDIUM HEADER */
 
 h2 {
-	color: #000000;
+	color: purple;
 	font-size: 24px;
 	text-align: center
 }
@@ -163,14 +163,14 @@ h2 {
 /* SMALL HEADER */
 
 h3 {
-	color: #000000 !important;
+	color: purpleX !important;
 	font-size: 14px !important
 }
 
 /* RIGHT SIDE PANEL HEADER */
 
 .sidebar h3 {
-	color: #000000 !important;
+	color: purple !important;
         font-size: 26px !important;
         font-family: 'FONT NAME'
 }
@@ -180,27 +180,27 @@ h3 {
 	background: rgba(1, 1, 1, 0.5) !important;
 	box-shadow: none !important;
 	border: none !important;
-	color: #000000 !important;
+	color: purple !important;
 	border-radius: 0px
 }
 
 /* ENERGY BAR BACKGROUND */
 .progress {
 	background: rgba(1, 1, 1, 0.5);
-	color: #000000 !important;
+	color: white !important;
 	border-radius: 0px !important
 }
 
 /* ENERGY BAR COLOR */
 .progress-bar {
 	background: rgba(1, 1, 1, 0.5);
-	color: #000000 !important;
+	color: blue !important;
 	border-radius: 0px !important
 }
 
 /* ENERGY BAR TEXT */
 .progress div {
-	color: #000000 !important
+	color: purple !important
 }
 
 /* CHAT */
@@ -256,7 +256,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .bottom,
 th {
 	background: rgba(1, 1, 1, 0.5) !important;
-	color: #000000 !important;
+	color: purple !important;
 	border-radius: 0px
 }
 
@@ -302,8 +302,8 @@ td.right {
 
 .feature {
 	background: rgba(1, 1, 1, 0.5) !important;
-	color: #000000 !important;
-	border: 1px solid #000000 !important;
+	color: purple !important;
+	border: 1px solid purple !important;
 	border-radius: 0px !important
 }
 
@@ -331,7 +331,7 @@ textarea {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border: none !important;
 	border-radius: 0px !important;
-	color: #000000 !important;
+	color: purple !important;
 	box-shadow: none !important;
 	text-shadow: none !important
 }
@@ -340,7 +340,7 @@ textarea {
 
 .item-header {
 	background: rgba(1, 1, 1, 0.5) !important;
-	color: #000000  !important;
+	color: purple !important;
 	border-radius: 0px !important;
 }
 
