@@ -14,6 +14,7 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 body {
 	background: url('https://i.ytimg.com/vi/UPBtwL7h7oU/maxresdefault.jpg') center center fixed;
 	color: purple;
+	background-size: 100%;
 	cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
 	font-family: 'Shantell Sans', cursive;
 }
