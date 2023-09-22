@@ -12,8 +12,8 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 /* BACKGROUND */
 
 body {
-	background: url('https://i.ytimg.com/vi/UPBtwL7h7oU/maxresdefault.jpg') center center fixed;
-	color: purple;
+	background: url('https://static.jojowiki.com/images/8/8a/latest/20210920190757/JJL_Spine.pngg') center center fixed;
+	color: #46e223;
 	background-size: 100%;
 	cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
 	font-family: 'Shantell Sans', cursive;
@@ -38,7 +38,7 @@ body {
 /* TOPBAR ("Welcome back, ___") */
 
 .topbar {
-	background: #eb9aec80;
+	background: #ff9b4c80;
 	border: none;
 	border-top: none;
 	color: #000000;
@@ -48,7 +48,7 @@ body {
 /* NAVBAR (Den/Crossroads/Etc.) */
 
 .navbar {
-	background: #eb9aec80;
+	background: #ff9b4c80;
 	border-bottom: none;
 	color: #000000;
 	border-radius: 0px
@@ -57,22 +57,22 @@ body {
 /* NAVBAR BUTTON TEXT COLOR */
 
 .navbar li a {
-	color: purple !important
+	color: #46e223 !important
 }
 
 /* NAVBAR BUTTON HOVER */
 
 .navbar li a:hover {
-	background: #d57dd680 !important;
+	background: #f17a1b80 !important;
 	border-bottom: none;
-	color: purple !important;
+	color: #46e223 !important;
 	border-radius: 0px
 }
 
 /* BREADCRUMB (Home / Den) */
 
 .breadcrumb {
-	background: #eb9aec80 !important;
+	background: #ff9b4c80 !important;
         border: none;
 	border-radius: 0px
 }
@@ -80,14 +80,14 @@ body {
 /* BREADCRUMB TEXT */
 
 .breadcrumb .active {
-	color: purple
+	color: #46e223
 }
 
 /* CSS CREDIT */
 
 .breadcrumb::after {
         content: "Template by Katie (#106445)";
-        color: purple;
+        color: #46e223;
         position: absolute;
         right: 13%; /* (This may need adjusting) */
         z-index: 100
@@ -114,20 +114,20 @@ body {
 /* BOOKMARK BUTTON */
 
 input.floatright, input.floatright:hover {
-	background: #d57dd680 !important;
+	background: #f17a1b80 !important;
         border: none !important;
 	border-radius: 0px;
-	color: purple !important;    
+	color: #46e223 !important;    
 }
 
 /* SWITCH ACCOUNT BUTTON */
 
 button.button, button.button:hover {
-	background: #d57dd680;
+	background: #f17a1b80;
         border: none !important;
 	border-radius: 0px;
         text-shadow: none !important;
-	color: purple !important
+	color: #46e223 !important
 }
 
 /* ALERTS (ie. "Your lionesses have returned from hunting!") */
@@ -135,16 +135,16 @@ button.button, button.button:hover {
 .alert,
 .alert-warning,
 .alert-danger {
-	background: #94d67c !important;
-	border: green;
-	color: green;
+	background: #81c3ff !important;
+	border: blue;
+	color: blue;
 	border-radius: 0px !important
 }
 
 /* BIGGEST HEADER ("___"'s DEN) */
 
 h1 {
-	color: purple;
+	color: #46e223;
 	font-size: 90px;
 	text-align: center;
         font-family: 'Shantell Sans', cursive;
@@ -154,7 +154,7 @@ h1 {
 /* MEDIUM HEADER */
 
 h2 {
-	color: purple;
+	color: #46e223;
 	font-size: 24px;
 	text-align: center
 }
@@ -163,14 +163,14 @@ h2 {
 /* SMALL HEADER */
 
 h3 {
-	color: purple !important;
+	color: #46e223 !important;
 	font-size: 14px !important
 }
 
 /* RIGHT SIDE PANEL HEADER */
 
 .sidebar h3 {
-	color: purple !important;
+	color: #46e223 !important;
         font-size: 26px !important;
         font-family: 'Shantell Sans', cursive;
 }
@@ -180,7 +180,7 @@ h3 {
 	background: #ffe5ff80 !important;
 	box-shadow: none !important;
 	border: none !important;
-	color: purple !important;
+	color: #46e223 !important;
 	border-radius: 0px
 }
 
@@ -193,14 +193,14 @@ h3 {
 
 /* ENERGY BAR COLOR */
 .progress-bar {
-	background: #d57dd680;
+	background: #f17a1b80;
 	color: blue !important;
 	border-radius: 0px !important
 }
 
 /* ENERGY BAR TEXT */
 .progress div {
-	color: purple !important
+	color: #46e223 !important
 }
 
 /* CHAT */
@@ -255,8 +255,8 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .top,
 .bottom,
 th {
-	background: #d57dd680 !important;
-	color: purple !important;
+	background: #f17a1b80 !important;
+	color: #46e223 !important;
 	border-radius: 0px
 }
 
@@ -267,8 +267,8 @@ td.bottom a {
 /* Color behind "Level, Stats, Branch, Territory" etc. */
 
 .inner-table .left {
-	background: #eb9aec80 !important;
-        color: purple;
+	background: #ff9b4c80 !important;
+        color: #46e223;
 	border-radius: 0px
 }
 
@@ -293,7 +293,7 @@ td.right {
 
 .cave-grid,
 .mound-grid {
-	background: #eb9aec80;
+	background: #ff9b4c80;
 	border: none !important;
 	border-radius: 0px !important
 }
@@ -301,9 +301,9 @@ td.right {
 /* FEED ALL, PLAY ALL */
 
 .feature {
-	background: #eb9aec80 !important;
-	color: purple !important;
-	border: 1px solid purple !important;
+	background: #ff9b4c80 !important;
+	color: #46e223 !important;
+	border: 1px solid #46e223 !important;
 	border-radius: 0px !important
 }
 
@@ -311,7 +311,7 @@ td.right {
 
 .feature,
 div.left {
-	background: #eb9aec80;
+	background: #ff9b4c80;
 	border: none;
 	border-radius: 0px !important
 }
@@ -319,7 +319,7 @@ div.left {
 /* Block of color behind "Territory Description, Player Name, Avatar URL" etc. */
 
 .table .left {
-	background: #eb9aec80;
+	background: #ff9b4c80;
         border-radius: 0px
 }
 
@@ -331,7 +331,7 @@ textarea {
 	background: #ffffff80 !important;
 	border: none !important;
 	border-radius: 0px !important;
-	color: purple !important;
+	color: #46e223 !important;
 	box-shadow: none !important;
 	text-shadow: none !important
 }
@@ -339,13 +339,13 @@ textarea {
 /* ACCOUNT OPTIONS PANELS  (Friend Requests Toggles, etc.) */
 
 .item-header {
-	background: #eb9aec80 !important;
-	color: purple !important;
+	background: #ff9b4c80 !important;
+	color: #46e223 !important;
 	border-radius: 0px !important;
 }
 
 .item {
-	background: #eb9aec80 !important;
+	background: #ff9b4c80 !important;
 	border: none !important;
 	border-radius: 0px !important
 }
@@ -353,11 +353,11 @@ textarea {
 /* ACCOUNT OPTIONS ON/OFF TOGGLE SWITCH */
 
 div.slider.round /* Background */ {
-	background: #eb9aec80 !important
+	background: #ff9b4c80 !important
 }
 
 div.slider.round::before /* Circle Part */ {
-	background: #eb9aec80 !important
+	background: #ff9b4c80 !important
 }
 
 /* Copyright, Terms of Service, CoC, etc. */
@@ -395,7 +395,7 @@ a:hover {
 
 .smallbox {
 	float: left;
-	background: #d57dd680;
+	background: #f17a1b80;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -408,7 +408,7 @@ a:hover {
 
 .mediumbox {
 	float: left;
-	background: #d57dd680;
+	background: #f17a1b80;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -421,7 +421,7 @@ a:hover {
 
 .largebox {
 	float: left;
-	background: #d57dd680;
+	background: #f17a1b80;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -436,7 +436,7 @@ a:hover {
 
 .smallhoverbox {
 	float: left;
-	background: #d57dd680;
+	background: #f17a1b80;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -455,7 +455,7 @@ a:hover {
 
 .mediumhoverbox {
 	float: left;
-	background: #d57dd680;
+	background: #f17a1b80;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -474,7 +474,7 @@ a:hover {
 
 .largehoverbox {
 	float: left;
-	background: #d57dd680;
+	background: #f17a1b80;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -510,7 +510,7 @@ a:hover {
 /* "THUMB" */
 
 ::-webkit-scrollbar-thumb {
-	background: purple;
+	background: #46e223;
 	border-radius: 0px
 }
 
@@ -544,21 +544,21 @@ table#player img {
 /* LIODEN LOGO REPLACER */
 
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
-	content: url('https://cdn.custom-cursor.com/db/8251/jojo-bizzare-adventure-jolyne-kujo-and-stone-free-pointer.png')
+	content: url('https://static.jojowiki.com/images/5/59/JoJolion_Logo.png')
 }
 
 /* CAVE / MOUND IMAGES */
 
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://mythicalcatjay.neocities.org/Jolyne_2008_Shikishi_Autograph.png') !important
+	content: url('https://static.jojowiki.com/images/9/91/latest/20191015214807/Yasu04.jpg') !important
 }
 
 a[href$="213986"]>div.cave-grid>img {
-	content: url('https://mythicalcatjay.neocities.org/JumpFesta2001Araki.jpg') !important
+	content: url('https://static.jojowiki.com/images/9/95/latest/20210723110004/Tailpiece_84.png') !important
 }
 
 a[href$="122149"]>div.cave-grid>img {
-	content: url('https://pbs.twimg.com/media/Dc3OVYWXUAAsig2.jpg') !important
+	content: url('https://static.jojowiki.com/images/f/fc/latest/20191015215735/UJ2016No10UJPressC.png') !important
 }
 
 a[href$="209562"]>div.cave-grid>img {
@@ -566,15 +566,15 @@ a[href$="209562"]>div.cave-grid>img {
 }
 
 a[href$="lionoverview.php?id=140780"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('https://mythicalcatjay.neocities.org/Araki_Hoodie_Sketch.jpg') !important
+	content: url('https://static.jojowiki.com/images/a/a6/latest/20210723104531/JJL_Chapter_61_Tailpiece.png') !important
 }
 
 a[href$="unsorted.php?id=140780"]>div.cave-grid>img /* Unsorted */ {
-	content: url('https://mythicalcatjay.neocities.org/JoJoVellerBoxJolyne.jpg') !important
+	content: url('https://static.jojowiki.com/images/b/b9/latest/20191102213526/JJL_2013_ASB.png') !important
 }
 
 .mound-grid img /* Mound(s) */ {
-	background: url("https://static.jojowiki.com/images/thumb/0/05/latest/20191015215138/Joly05.jpg/179px-Joly05.jpg");
+	background: url("https://static.jojowiki.com/images/1/1d/latest/20210723105940/1_tailpiece_83.png");
 	width: 0;
 	height: 0;
 	padding-top: 80px;
