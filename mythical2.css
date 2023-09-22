@@ -13,10 +13,9 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 body {
 	background: url('https://static.jojowiki.com/images/8/8a/latest/20210920190757/JJL_Spine.pngg') center center fixed;
-	color: #2a8c14 ;
 	background-size: 100%;
-	cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
 	font-family: 'Shantell Sans', cursive;
+	color: #2a8c14;
 }
 
 /* MAIN PANEL */
