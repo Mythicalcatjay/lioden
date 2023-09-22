@@ -12,7 +12,7 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 /* BACKGROUND */
 
 body {
-	background: url('https://static.jojowiki.com/images/8/8a/latest/20210920190757/JJL_Spine.pngg') center center fixed;
+	background: url("https://static.jojowiki.com/images/8/8a/latest/20210920190757/JJL_Spine.pngg") center center fixed;
 	background-size: 100%;
 	font-family: 'Shantell Sans', cursive;
 	color: #2a8c14;
@@ -549,31 +549,31 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 /* CAVE / MOUND IMAGES */
 
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://static.jojowiki.com/images/9/91/latest/20191015214807/Yasu04.jpg') !important
+	content: url('https://static.jojowiki.com/images/9/96/latest/20200710044447/JoJoEx2012JoJolion.jpg') !important
 }
 
 a[href$="213986"]>div.cave-grid>img {
-	content: url('https://static.jojowiki.com/images/f/fc/latest/20191015215735/UJ2016No10UJPressC.png') !important
+	content: url('https://static.jojowiki.com/images/0/0f/latest/20220823050927/JJL_Vol._10_Clean.png') !important
 }
 
 a[href$="122149"]>div.cave-grid>img {
-	content: url('https://static.jojowiki.com/images/9/95/latest/20210723110004/Tailpiece_84.png') !important
+	content: url('https://static.jojowiki.com/images/b/b5/latest/20201026025435/JoJoLionV19.jpg') !important
 }
 
 a[href$="209562"]>div.cave-grid>img {
-	content: url('https://static.jojowiki.com/images/thumb/0/03/latest/20191015213906/Joly14.jpg/209px-Joly14.jpg') !important
+	content: url('https://static.jojowiki.com/images/9/9c/latest/20191015214632/JumpComicsJJL5.png.jpg') !important
 }
 
 a[href$="lionoverview.php?id=150758"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('https://static.jojowiki.com/images/a/a6/latest/20210723104531/JJL_Chapter_61_Tailpiece.png') !important
+	content: url('https://static.jojowiki.com/images/1/15/latest/20200114125139/JumpComicsJJL7.png') !important
 }
 
 a[href$="unsorted.php?id=150758"]>div.cave-grid>img /* Unsorted */ {
-	content: url('https://static.jojowiki.com/images/b/b9/latest/20191102213526/JJL_2013_ASB.png') !important
+	content: url('https://static.jojowiki.com/images/4/4f/latest/20200916215742/JumpComicsJJL1.png') !important
 }
 
 .mound-grid img /* Mound(s) */ {
-	background: url("https://static.jojowiki.com/images/1/1d/latest/20210723105940/1_tailpiece_83.png");
+	background: url("https://static.jojowiki.com/images/d/dd/latest/20200725211146/25Years_Josuke8.png");
 	width: 0;
 	height: 0;
 	padding-top: 80px;
