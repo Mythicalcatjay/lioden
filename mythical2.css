@@ -13,7 +13,7 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 body {
 	background: url('https://static.jojowiki.com/images/8/8a/latest/20210920190757/JJL_Spine.pngg') center center fixed;
-	color: #46e223;
+	color: #2a8c14 ;
 	background-size: 100%;
 	cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
 	font-family: 'Shantell Sans', cursive;
@@ -57,7 +57,7 @@ body {
 /* NAVBAR BUTTON TEXT COLOR */
 
 .navbar li a {
-	color: #46e223 !important
+	color: #2a8c14  !important
 }
 
 /* NAVBAR BUTTON HOVER */
@@ -65,7 +65,7 @@ body {
 .navbar li a:hover {
 	background: #f17a1b80 !important;
 	border-bottom: none;
-	color: #46e223 !important;
+	color: #2a8c14  !important;
 	border-radius: 0px
 }
 
@@ -80,14 +80,14 @@ body {
 /* BREADCRUMB TEXT */
 
 .breadcrumb .active {
-	color: #46e223
+	color: #2a8c14 
 }
 
 /* CSS CREDIT */
 
 .breadcrumb::after {
         content: "Template by Katie (#106445)";
-        color: #46e223;
+        color: #2a8c14 ;
         position: absolute;
         right: 13%; /* (This may need adjusting) */
         z-index: 100
@@ -117,7 +117,7 @@ input.floatright, input.floatright:hover {
 	background: #f17a1b80 !important;
         border: none !important;
 	border-radius: 0px;
-	color: #46e223 !important;    
+	color: #2a8c14  !important;    
 }
 
 /* SWITCH ACCOUNT BUTTON */
@@ -127,7 +127,7 @@ button.button, button.button:hover {
         border: none !important;
 	border-radius: 0px;
         text-shadow: none !important;
-	color: #46e223 !important
+	color: #2a8c14  !important
 }
 
 /* ALERTS (ie. "Your lionesses have returned from hunting!") */
@@ -144,7 +144,7 @@ button.button, button.button:hover {
 /* BIGGEST HEADER ("___"'s DEN) */
 
 h1 {
-	color: #46e223;
+	color: #2a8c14 ;
 	font-size: 90px;
 	text-align: center;
         font-family: 'Shantell Sans', cursive;
@@ -154,7 +154,7 @@ h1 {
 /* MEDIUM HEADER */
 
 h2 {
-	color: #46e223;
+	color: #2a8c14 ;
 	font-size: 24px;
 	text-align: center
 }
@@ -163,30 +163,30 @@ h2 {
 /* SMALL HEADER */
 
 h3 {
-	color: #46e223 !important;
+	color: #2a8c14  !important;
 	font-size: 14px !important
 }
 
 /* RIGHT SIDE PANEL HEADER */
 
 .sidebar h3 {
-	color: #46e223 !important;
+	color: #2a8c14  !important;
         font-size: 26px !important;
         font-family: 'Shantell Sans', cursive;
 }
 
 /* RIGHT SIDE PANELS */
 .panel {
-	background: #ffe5ff80 !important;
+	background: #fff7e580 !important;
 	box-shadow: none !important;
 	border: none !important;
-	color: #46e223 !important;
+	color: #2a8c14  !important;
 	border-radius: 0px
 }
 
 /* ENERGY BAR BACKGROUND */
 .progress {
-	background: #ffe5ff80;
+	background: #fff7e580;
 	color: white !important;
 	border-radius: 0px !important
 }
@@ -200,13 +200,13 @@ h3 {
 
 /* ENERGY BAR TEXT */
 .progress div {
-	color: #46e223 !important
+	color: #2a8c14  !important
 }
 
 /* CHAT */
 
 .s-chat-message:nth-child(even) /* Even Numbered Messages */ {
-	background: #ffe5ff80 !important;
+	background: #fff7e580 !important;
         color: #000000 !important;
 	border: none !important
 }
@@ -218,7 +218,7 @@ h3 {
 }
 
 .s-chat-message__pinned /* Pinned Message */ {
-	background: #ffe5ff80 !important;
+	background: #fff7e580 !important;
         color: #000000 !important;
 	border: none !important
 }
@@ -243,7 +243,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 /* PANEL BACKGROUND COLOR */
 
 .table {
-	background: #ffe5ff80;
+	background: #fff7e580;
 	border: none !important;
 	border-collapse: separate;
 	border-radius: 0px
@@ -256,7 +256,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .bottom,
 th {
 	background: #f17a1b80 !important;
-	color: #46e223 !important;
+	color: #2a8c14  !important;
 	border-radius: 0px
 }
 
@@ -268,7 +268,7 @@ td.bottom a {
 
 .inner-table .left {
 	background: #ff9b4c80 !important;
-        color: #46e223;
+        color: #2a8c14 ;
 	border-radius: 0px
 }
 
@@ -302,8 +302,8 @@ td.right {
 
 .feature {
 	background: #ff9b4c80 !important;
-	color: #46e223 !important;
-	border: 1px solid #46e223 !important;
+	color: #2a8c14  !important;
+	border: 1px solid #2a8c14  !important;
 	border-radius: 0px !important
 }
 
@@ -331,7 +331,7 @@ textarea {
 	background: #ffffff80 !important;
 	border: none !important;
 	border-radius: 0px !important;
-	color: #46e223 !important;
+	color: #2a8c14  !important;
 	box-shadow: none !important;
 	text-shadow: none !important
 }
@@ -340,7 +340,7 @@ textarea {
 
 .item-header {
 	background: #ff9b4c80 !important;
-	color: #46e223 !important;
+	color: #2a8c14  !important;
 	border-radius: 0px !important;
 }
 
@@ -371,13 +371,13 @@ div.container.footer.center.white.visible-lg.visible-md.visible-sm, div.containe
 
 a:link,
 a:visited {
-	color: #522291 !important
+	color: #139f54 !important
 }
 
 /* LINK HOVER COLOR */
 
 a:hover {
-	color: #862291 !important
+	color: #076b35 !important
 }
 
 
@@ -510,7 +510,7 @@ a:hover {
 /* "THUMB" */
 
 ::-webkit-scrollbar-thumb {
-	background: #46e223;
+	background: #2a8c14 ;
 	border-radius: 0px
 }
 
@@ -565,11 +565,11 @@ a[href$="209562"]>div.cave-grid>img {
 	content: url('https://static.jojowiki.com/images/thumb/0/03/latest/20191015213906/Joly14.jpg/209px-Joly14.jpg') !important
 }
 
-a[href$="lionoverview.php?id=140780"]>div.cave-grid>img /* Pride Overview */ {
+a[href$="lionoverview.php?id=150758"]>div.cave-grid>img /* Pride Overview */ {
 	content: url('https://static.jojowiki.com/images/a/a6/latest/20210723104531/JJL_Chapter_61_Tailpiece.png') !important
 }
 
-a[href$="unsorted.php?id=140780"]>div.cave-grid>img /* Unsorted */ {
+a[href$="unsorted.php?id=150758"]>div.cave-grid>img /* Unsorted */ {
 	content: url('https://static.jojowiki.com/images/b/b9/latest/20191102213526/JJL_2013_ASB.png') !important
 }
 
