@@ -552,12 +552,12 @@ div.cave-grid>img /* Pregnant Lionesses */ {
 	content: url('https://static.jojowiki.com/images/9/91/latest/20191015214807/Yasu04.jpg') !important
 }
 
-a[href$="122149"]>div.cave-grid>img {
-	content: url('https://static.jojowiki.com/images/9/95/latest/20210723110004/Tailpiece_84.png') !important
-}
-
 a[href$="213986"]>div.cave-grid>img {
 	content: url('https://static.jojowiki.com/images/f/fc/latest/20191015215735/UJ2016No10UJPressC.png') !important
+}
+
+a[href$="122149"]>div.cave-grid>img {
+	content: url('https://static.jojowiki.com/images/9/95/latest/20210723110004/Tailpiece_84.png') !important
 }
 
 a[href$="209562"]>div.cave-grid>img {
