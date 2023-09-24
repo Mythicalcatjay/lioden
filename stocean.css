@@ -15,7 +15,6 @@ body {
 	background: url('https://i.ytimg.com/vi/UPBtwL7h7oU/maxresdefault.jpg') no-repeat center center fixed;
 	background-size: cover;
 	color: purple;
-	cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto;
 	font-family: 'Shantell Sans', cursive;
 }
 
@@ -598,3 +597,6 @@ a[href$="unsorted.php?id=150758"]>div.cave-grid>img /* Unsorted */ {
 			width: 790px;
 		}
 	}
+
+/* CURSOR */
+	{cursor: url('https://mythicalcatjay.neocities.org/butterfly.gif'), auto !important;}
