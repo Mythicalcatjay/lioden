@@ -11,9 +11,12 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 /* BACKGROUND */
 
+@media (min-width: 220px) {
 body {
-	background: url('https://i.ytimg.com/vi/UPBtwL7h7oU/maxresdefault.jpg') no-repeat center center fixed;
-	background-size: cover;
+	background-color: black;
+	background: url('https://i.ytimg.com/vi/UPBtwL7h7oU/maxresdefault.jpg') center center fixed !important;
+	background-size: cover !important;
+	background-repeat: no-repeat;
 	color: purple;
 	font-family: 'Shantell Sans', cursive;
 }
