@@ -9,14 +9,8 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 @import url('https://images.alphacoders.com/129/1294980.png');
 
-/* BACKGROUND */
-
-@media (min-width: 220px) {
 body {
-	background-color: pink;
-	background: url("https://static.jojowiki.com/images/8/8a/latest/20210920190757/JJL_Spine.pngg") center center fixed !important;
-	background-size: cover !important;
-	background-repeat: no-repeat;;
+	background: url("https://static.jojowiki.com/images/8/8a/latest/20210920190757/JJL_Spine.pngg") no-repeat center center fixed;
 	background-size: cover;
 	font-family: 'Shantell Sans', cursive;
 	color: #2a8c14;
