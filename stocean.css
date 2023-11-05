@@ -19,7 +19,7 @@ html {
  
 body {
 /* This is where you set your background image, and any background adjustments. */
-	background: url('https://i.pinimg.com/originals/57/ef/77/57ef77305792467561307cc981493307.jpg') no-repeat fixed center;
+	background: url('https://i.ytimg.com/vi/UPBtwL7h7oU/maxresdefault.jpg') no-repeat fixed center;
   	background-position: center center;
   	background-size: cover;
 	font-family: 'Shantell Sans', sans-serif;
@@ -47,7 +47,7 @@ body {
 /* FEED ALL, PLAY ALL */
  
 .feature {
-	background: #FF9B4C !important;
+	background: #eb9aec !important;
 	color: #2a8c14  !important;
 	border: 1px solid #2a8c14  !important;
 	border-radius: 0px !important
@@ -56,7 +56,7 @@ body {
 /* Topbar ("Welcome back, ___"), NAVBAR (Den/Crossroads/Etc.) */
  
 .topbar {
-	background: #FF9B4C;
+	background: #eb9aec;
 	border: none;
 	border-top: none;
 	color: #000000;
@@ -66,7 +66,7 @@ body {
 /* Navbar Link Customization (Den/Crossroads/...) */
  
 .navbar {
-	background: #FF9B4C;
+	background: #eb9aec;
 	border-bottom: none;
 	color: #000000;
 	border-radius: 0px;
@@ -113,7 +113,7 @@ body {
 /* Breadcrumb (Home / Den) */
  
 .breadcrumb {
-	background: #FF9B4C !important;
+	background: #eb9aec !important;
         border: none;
 	border-radius: 0px;
 }
@@ -164,7 +164,7 @@ body {
  
 .feature,
 div.left {
-	background: #FF9B4C !important;
+	background: #eb9aec !important;
 	border: none;
 	border-radius: 0px !important;
 }
@@ -320,7 +320,7 @@ td.bottom a {
 /* Color behind "Level, Stats, Branch, Territory" etc. */
  
 .inner-table .left {
-	background: #FF9B4C !important;
+	background: #eb9aec !important;
         color: #2A8C14;
 	border-radius: 0px;
 }
@@ -345,7 +345,7 @@ td.right {
  
 .cave-grid,
 .mound-grid {
-	background: #FF9B4C;
+	background: #eb9aec;
 	border: none !important;
 	border-radius: 0px !important;
 }
@@ -360,13 +360,13 @@ td.right {
 /* Account Option Panels  (Friend Requests Toggles, etc.) */
  
 .item-header {
-	background: #FF9B4C !important;
+	background: #eb9aec !important;
 	color: #2A8C14  !important;
 	border-radius: 0px !important;
 }
  
 .item {
-	background: #FF9B4C !important;
+	background: #eb9aec !important;
 	border: none !important;
 	border-radius: 0px !important;
 }
@@ -376,7 +376,7 @@ td.right {
  
 .cave-grid,
 .mound-grid {
-	background: #FF9B4C;
+	background: #eb9aec;
 	border: none !important;
 	border-radius: 0px !important;
 }
